@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473758395031",
+    "project_id": "finaleasycom",
+    "storage_bucket": "finaleasycom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473758395031:android:327df1e01ef772ebdc17d2",
+        "android_client_info": {
+          "package_name": "com.android.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473758395031-3llelvjigke534h9r9q6b2d20pe7681j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7-Tp2B3x8x3SH6_4wtfNNGjJIRIsvDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473758395031-3llelvjigke534h9r9q6b2d20pe7681j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
